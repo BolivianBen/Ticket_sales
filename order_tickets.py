@@ -6,6 +6,8 @@
 #users should be told they can't buy more once tickets are out
 # users should be able to purchase with credit cards and bitcoin
 
+#Additionally, the program should not be able to sell more tickets than are currently available for sale
+
 
 
 TICKET_PRICE = 10
